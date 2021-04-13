@@ -3,7 +3,7 @@ Common Computer Myths People Still Believe
 
 Here is a list of common pc myths that people still believe in 2021
 
-
+-----------------------------
 
 1. If Your Computer is Slow, It’s Always a Virus
 
@@ -23,6 +23,8 @@ This simple not true and there are many different types of infection like malwar
 -----------------------------
 
 3. Higher wattage power supply’s uses more electricity
+
+
 Generally, Power Supplies (PSUs) only deliver the amount of power needed for the system to run. So, if your system components require 300W, and you use a 500W PSU, it would still only consume 300 watts. A PSU only draws as much power as it needs. The efficiency is where slight differences are made
 
 -----------------------------
