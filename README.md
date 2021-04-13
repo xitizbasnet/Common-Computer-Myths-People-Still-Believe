@@ -1,9 +1,6 @@
 # Common-Computer-Myths-People-Still-Believe
 Common Computer Myths People Still Believe
 
- HomeHow-to5 Common Computer Myths People Still Believe
-5 Common Computer Myths People Still Believe admin  April 12, 2021  How-to  No Comments
-5 Common Computer Myths People Still Believe
 Here is a list of common pc myths that people still believe in 2021
 
 
