@@ -18,6 +18,8 @@ Its not always a virus or malware, it could be related to many other things, lik
 -----------------------------
 
 2. Macs or Linux Don’t Need Antivirus Software or get infected with virus
+
+
 This simple not true and there are many different types of infection like malware, viruses, trojans, ransomware and more that infected Linux and Mac
 
 -----------------------------
